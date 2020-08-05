@@ -10,8 +10,7 @@
 * [`GET /ingredients/:id`](https://my-json-server.typicode.com/andydlindsay/chef-andy/ingredients/1)
 * [`GET /recipe-ingredients`](https://my-json-server.typicode.com/andydlindsay/chef-andy/recipe-ingredients)
 * [`GET /recipe-ingredients/:id`](https://my-json-server.typicode.com/andydlindsay/chef-andy/recipe-ingredients/1)
-
-* [Entire Database](https://my-json-server.typicode.com/andydlindsay/chef-andy/db)
+* [`GET /db`](https://my-json-server.typicode.com/andydlindsay/chef-andy/db)
 
 ### BaseUrl
 

@@ -1,0 +1,29 @@
+{
+  "recipes": [
+    { "id": 1, "title": "PB && J Sandwich" },
+    { "id": 2, "title": "French Toast" },
+    { "id": 3, "title": "Cake" }
+  ],
+  "ingredients": [
+    { "id": 1, "name": "bread" },
+    { "id": 2, "name": "milk" },
+    { "id": 3, "name": "eggs" },
+    { "id": 4, "name": "flour" },
+    { "id": 5, "name": "jam" },
+    { "id": 6, "name": "peanut butter" }
+  ],
+  "recipe-ingredients": [
+    { "id": 1, "recipeId": 1, "ingredientId": 1, "quantity": 2 },
+    { "id": 2, "recipeId": 1, "ingredientId": 6, "quantity": 1 },
+    { "id": 3, "recipeId": 1, "ingredientId": 5, "quantity": 1 },
+    { "id": 4, "recipeId": 2, "ingredientId": 1, "quantity": 2 },
+    { "id": 5, "recipeId": 2, "ingredientId": 2, "quantity": 1 },
+    { "id": 6, "recipeId": 2, "ingredientId": 3, "quantity": 2 },
+    { "id": 7, "recipeId": 3, "ingredientId": 2, "quantity": 2 },
+    { "id": 8, "recipeId": 3, "ingredientId": 3, "quantity": 2 },
+    { "id": 9, "recipeId": 3, "ingredientId": 4, "quantity": 2 }
+  ],
+  "profile": {
+    "name": "Chef Andy"
+  }
+}

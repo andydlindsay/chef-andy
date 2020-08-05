@@ -11,6 +11,8 @@
 * [`GET /recipe-ingredients`](https://my-json-server.typicode.com/andydlindsay/chef-andy/recipe-ingredients)
 * [`GET /recipe-ingredients/:id`](https://my-json-server.typicode.com/andydlindsay/chef-andy/recipe-ingredients/1)
 
+* [Entire Database](https://my-json-server.typicode.com/andydlindsay/chef-andy/db)
+
 ### BaseUrl
 
-* [https://my-json-server.typicode.com/andydlindsay/chef-andy/](https://my-json-server.typicode.com/andydlindsay/chef-andy/)
+* https://my-json-server.typicode.com/andydlindsay/chef-andy/
